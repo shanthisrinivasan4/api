@@ -1,0 +1,20 @@
+[
+  {
+    "id": "10001",
+    "name": "Dell",
+    "manufacturer": "Dell",
+    "version": "1.0",
+    "country": "UK",
+    "createdDate": "2019-03-06T09:39:12.688Z",
+    "alternatePackageId": "12009"
+  },
+  {
+    "id": "10002",
+    "name": "Apple",
+    "manufacturer": "Apple",
+    "version": "1.0",
+    "country": "UK",
+    "createdDate": "2019-03-06T09:39:12.688Z",
+    "alternatePackageId": "12008"
+  }
+]
